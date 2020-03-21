@@ -1,0 +1,22 @@
+.wrapper {
+    background-color: plum;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapper__content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.blue {
+    color: snow;
+}
+
+.logo {
+    max-width: 150px;
+}
